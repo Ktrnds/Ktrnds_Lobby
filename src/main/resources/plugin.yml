@@ -1,0 +1,7 @@
+name: Ktrnds_Lobby
+version: '1.0.0'
+main: org.ktrnds.ktrnds_Lobby.Ktrnds_Lobby
+api-version: '1.21'
+commands:
+  setspawn:
+    description: "初期位置を設定します"
